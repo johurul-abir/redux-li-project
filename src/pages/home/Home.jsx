@@ -413,6 +413,10 @@ const Home = () => {
                   <div className="left-sitebar">
                     <div className="top-part">
                       <img
+                        src="https://cdn.shopify.com/s/files/1/0066/4574/3686/files/Abstract_LinkedIn_Background.png?v=1627912075"
+                        alt=""
+                      />
+                      <img
                         src="https://www.shutterstock.com/image-photo/los-angeles-jun-7-andy-260nw-197382044.jpg"
                         className="profilePic"
                       />
